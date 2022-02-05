@@ -1,2 +1,2 @@
-# Lego-Vision
-An object detection/classification project
+# Voice-Conversion
+Converting voice of one tonality to another
